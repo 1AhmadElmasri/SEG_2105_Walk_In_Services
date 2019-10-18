@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "4958834995",
+    "firebase_url": "https://caduciamkii.firebaseio.com",
+    "project_id": "caduciamkii",
+    "storage_bucket": "caduciamkii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4958834995:android:e65708369821aff050ae46",
+        "android_client_info": {
+          "package_name": "com.example.caduciamkii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4958834995-rd2icvlqbkr4v5v1oq897mgoj7njqoi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caduciamkii",
+            "certificate_hash": "be4c164439c375324b18d4047f5673993aad87ca"
+          }
+        },
+        {
+          "client_id": "4958834995-3gj2oedlmv4iduqkfaudrqd6clg6s64o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMjLQ4p0fhcYj-KIH0lH_3I9GyW0KIRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4958834995-3gj2oedlmv4iduqkfaudrqd6clg6s64o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
